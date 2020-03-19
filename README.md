@@ -1,7 +1,7 @@
 # Weather-Logger-swiftui
 Weather Logger base Current location. Created with Swift , Swiftui and Objective-C Temperator converter class.
 
-![1-weather-screen.png]()
+![1-weather-screen.png](https://raw.githubusercontent.com/mmayadag/Weather-Logger-swiftui/master/Docs/1-weather-screen.png)
 
 ### This project created with SwiftUi
 - [x] Weather format used Swift and Objective-C
@@ -22,9 +22,9 @@ Weather Logger base Current location. Created with Swift , Swiftui and Objective
 
 ## Screenshoots
 
-![2-save-screen.png]()
+![2-save-screen.png](https://raw.githubusercontent.com/mmayadag/Weather-Logger-swiftui/master/Docs/2-save-screen.png)
 
-![3-logs-delete-screen.png]()
+![3-logs-delete-screen.png](https://raw.githubusercontent.com/mmayadag/Weather-Logger-swiftui/master/Docs/3-logs-delete-screen.png)
 
 # Author
 Murat Mayadağ
