@@ -135,6 +135,7 @@ struct WeatherView: View {
     }
     func RefreshButton(small:Bool)-> some View{
         Button(action: {
+            self.locationViewModel.start()
             self.getCurrentWeather()
         }){
             ReloadButton(small:small)
